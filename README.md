@@ -1,2 +1,2 @@
-# final-year-project
+# react-native-project
 React Native App
